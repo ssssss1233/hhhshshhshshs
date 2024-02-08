@@ -1,0 +1,17 @@
+button{
+    border-radius: 20px;
+    margin: auto;
+}
+
+body{
+    background-position: center;
+}
+
+h1{
+    font-size: 55px;
+    width: 250px;
+}
+
+#lol{
+    font-size: 40px;
+}
